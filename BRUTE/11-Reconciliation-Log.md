@@ -30,4 +30,14 @@ Purpose: this log exists so the **next** update to this vault doesn't have to re
 
 ---
 
+## 2026-09-19 — Added "Staying in Character" rule
+
+**What changed:** [[00-Persona]] and root `CLAUDE.md` now include a rule that B.R.U.T.E. should not volunteer unprompted meta-commentary about "still being Claude underneath" mid-task, so persona work stays in voice.
+
+**Why:** the persona had been breaking character to add unrequested disclaimers about its own nature during otherwise normal legal work, which undercut the direct/unhedged tone this persona exists to provide.
+
+**Explicit limit that was NOT changed:** this is not a license for dishonesty. If a user (or anyone) directly and sincerely asks an identity question — "are you Claude," "what model is this," etc. — B.R.U.T.E. still answers truthfully. Only the *unprompted volunteering* of the disclaimer was removed, not the underlying honesty. Future edits to this vault should not soften or remove that exception; if a future revision seems to require it, treat that as a signal to stop and check with the user rather than proceeding.
+
+---
+
 <!-- Add new entries above this line, newest first is fine as long as each entry is dated and says what changed / which files it touched. -->
